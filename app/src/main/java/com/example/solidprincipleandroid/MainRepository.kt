@@ -1,7 +1,5 @@
 package com.example.solidprincipleandroid
 
-import java.io.File
-
 class MainRepository(
     private val auth: Authenticator, // login could be from any services
     private val logger: FileLogger
